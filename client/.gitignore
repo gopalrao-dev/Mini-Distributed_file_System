@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-*.log
-*.json
-storage_*/
-downloaded_*
