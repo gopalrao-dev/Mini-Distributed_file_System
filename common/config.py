@@ -1,0 +1,4 @@
+MASTER_HOST = '127.0.0.1'
+MASTER_PORT = 5000
+
+DATANODE_PORTS = [6001, 6002]  # Can add more DataNodes later
